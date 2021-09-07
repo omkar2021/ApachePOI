@@ -9,7 +9,7 @@ public class DemoGit {
 		List<Integer> list = new ArrayList<Integer>();
         List<String> list2 = new ArrayList<String>();
         
-        List ab=new ArrayList();
+        List bc=new ArrayList();
 
   	}
 }
